@@ -395,4 +395,4 @@ It's important to comprehend why and in what contexts you might contemplate usin
 
 **Cross-cutting fields** - In some cases, you may want to assign a label to all (or a subset of) the resources in a namespace, or you may want to assign a namespace to all of the resources. Normally, you wouldn't want to include this in your Helm charts, but Kustomize makes it simple to overlay this configuration on your resources.
 
-** Furthermore... ** - Each environment is unique, and there are likely innumerable other instances in which you may wish to combine Helm and Kustomize. Prior to making your first technical decisions, you must have a thorough understanding of your requirements.
+Furthermore... - Each environment is unique, and there are likely innumerable other instances in which you may wish to combine Helm and Kustomize. Prior to making your first technical decisions, you must have a thorough understanding of your requirements.
